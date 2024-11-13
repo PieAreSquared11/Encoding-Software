@@ -42,3 +42,6 @@
   decode = Decode(interpret.key, encode.string_data)
 
   print(decode.string_data)
+
+- **NOTE**:
+  - After the first 30 characters or so, the encoding will start to make errors, such as removing spaces and miscalculating letters. I will try to fix this mistake.
