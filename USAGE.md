@@ -45,3 +45,8 @@
 
 - **NOTE**:
   - After the first 30 characters or so, the encoding will start to make errors, such as removing spaces and miscalculating letters. I will try to fix this mistake.
+
+## Creating Your own Key
+- To create your own key, start by determining the number of terms you want per line for your equation. Next, write out the specific equations for each line, such as: +1, -2, /3, and so on. Create however many lines you need and run your code!
+- **NOTE**:
+- Check the example key.txt for better understanding.
